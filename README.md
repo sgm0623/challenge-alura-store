@@ -10,3 +10,4 @@ Cómo ejecutar:
 “Ejecutar celdas en orden”
 
 Resultado:
+Vender tienda 4
